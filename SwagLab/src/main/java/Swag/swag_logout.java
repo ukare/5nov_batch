@@ -23,6 +23,10 @@ public class swag_logout {
 	
 	public void logout() {
 		Logout.click();
+		System.out.println("hii");  // done by me
+		
+		System.out.println("chaitali pagal");
+		System.out.println("baitad");
 	}
 
 }
